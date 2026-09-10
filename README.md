@@ -8,11 +8,10 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://santhosh125v.web.app/"><img src="https://skillicons.dev/icons?i=vercel" width="34" alt="Portfolio"/><br/><sub><b>Portfolio</b></sub></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/santhoshv1205/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" alt="LinkedIn"/><br/><sub><b>LinkedIn</b></sub></a></td>
+<td align="center"><a href="https://santhosh125v.web.app/"><img src="https://raw.githubusercontent.com/Santhoshv1205/Santhoshv1205/main/assets/sv.svg" width="34" alt="Portfolio"/><br/><sub><b>Portfolio</b></sub></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/santhoshv1205/"><img src="https://skillicons.dev/icons?i=linkedin" width="34" alt="LinkedIn"/><br/><sub><b>LinkedIn</b></sub></a></td>
 <td align="center"><a href="mailto:santhoshv1205@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" alt="Email"/><br/><sub><b>Email</b></sub></a></td>
 <td align="center"><a href="https://github.com/Santhoshv1205"><img src="https://skillicons.dev/icons?i=github" width="34" alt="GitHub"/><br/><sub><b>GitHub</b></sub></a></td>
-<td align="center"><a href="https://santhosh125v.web.app/"><img src="https://cdn.simpleicons.org/googlechrome/38BDF8" width="34" alt="Website"/><br/><sub><b>Website</b></sub></a></td>
 </tr>
 </table>
 
@@ -315,7 +314,7 @@ Human-tracking robotics invention using sensor-fusion concepts for real-time tra
 <div align="center">
 
 <a href="https://santhosh125v.web.app/"><img src="https://cdn.simpleicons.org/googlechrome/38BDF8" width="30" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/santhoshv1205/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/santhoshv1205/"><img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:santhoshv1205@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Santhoshv1205"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub"/></a>
 
